@@ -1,0 +1,11 @@
+HSNURcat :
+  username: HSNURcat    # user name : martin
+  name: H.S.P        # user full name : Martin Luther King
+  url_full:             # Homepage url
+  url:
+  bio: dandan4u
+                        # 회사정보
+  picture: assets/built/images/author-logo.png   # author image
+  facebook:             # facebook ID
+  twitter:              # twitter ID
+  cover: False

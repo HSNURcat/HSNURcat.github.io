@@ -1,0 +1,34 @@
+javascript:
+  name: javascript
+  description: False
+  cover: assets/images/sky.jpg
+
+javaSpring:
+  name: javaSpring
+  description: False
+  cover: assets/images/summit.jpg
+
+CC++:
+  name: CC++
+  description: False
+  cover: assets/images/waves.jpg
+
+C#:
+  name: C#
+  description: False
+  cover: False
+
+linux:
+  name: linux
+  description: False
+  cover: assets/images/writing.jpg
+
+economy:
+  name: economy
+  description: False
+  cover: assets/images/25.jpg
+
+etc:
+  name: etc
+  description: False
+  cover: assets/images/bus.jpg
