@@ -34,7 +34,7 @@ paginate: 20
 language: 'en-uk'
 # 언어 설정
 
-url: https://hsnurcat.github.io
+url: https://hsnurcat.github.io/
 # Google Search Console에서 사용하는 sitemap.xml 생성시
 # 이 url key값이 존재하지 않으면 sitemap.xml이
 # 정상적으로 생성되지 않는다.
@@ -64,7 +64,7 @@ favicon: assets/built/images/author-logo.png
 production_url: https://hsnurcat.github.io/
 # 최종적으로 blog가 운영될 url
 
-source_url: https://github.com/HSNURcat/HSNURcat.github.io/
+source_url: https://github.com/HSNURcat/HSNURcat.github.io
 # blogmaker(jekyll source folder)에 대한 github repository
 
 # Social info
