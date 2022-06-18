@@ -42,7 +42,7 @@ url: https://hsnurcat.github.io/
 # 자신의 github page url을 입력
 # ( https://your_github_id.github.io 형식 )
 
-baseurl: /
+baseurl: https://hsnurcat.github.io/
 
 # Website info
 title: History of H.S.P
