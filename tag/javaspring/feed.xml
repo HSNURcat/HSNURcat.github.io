@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://hsnurcat.github.io//https://hsnurcat.github.io/tag/javaspring/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://hsnurcat.github.io//https://hsnurcat.github.io/" rel="alternate" type="text/html" />
+  <updated>2022-06-18T13:37:46+00:00</updated>
+  <id>https://hsnurcat.github.io//https://hsnurcat.github.io/tag/javaspring/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">History of H.S.P | </title>
+  
+
+  
+    <subtitle>Writing page of my History</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Java class</title>
+      <link href="https://hsnurcat.github.io//https://hsnurcat.github.io/javaSpring-class" rel="alternate" type="text/html" title="Java class" />
+      <published>2022-06-12T12:54:00+00:00</published>
+      <updated>2022-06-12T12:54:00+00:00</updated>
+      <id>https://hsnurcat.github.io//https://hsnurcat.github.io/javaSpring-class</id>
+      <content type="html" xml:base="https://hsnurcat.github.io//https://hsnurcat.github.io/javaSpring-class">&lt;p&gt;상태정보(데이터) = 변수를 통해서 표현&lt;br /&gt;
+행동(기능) = 메소드를 통해서 표현&lt;br /&gt;
+객체 = 변수(상태정보) + 메소드(행동)&lt;br /&gt;
+객체 = 상태정보(데이터)+행동(기능)&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>H.S.P</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="javaSpring" />
+      
+
+      
+        <summary type="html">상태정보(데이터) = 변수를 통해서 표현 행동(기능) = 메소드를 통해서 표현 객체 = 변수(상태정보) + 메소드(행동) 객체 = 상태정보(데이터)+행동(기능)</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

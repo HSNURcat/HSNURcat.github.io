@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://hsnurcat.github.io//https://hsnurcat.github.io/author/HSNURcat/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://hsnurcat.github.io//https://hsnurcat.github.io/" rel="alternate" type="text/html" />
+  <updated>2022-06-18T13:37:46+00:00</updated>
+  <id>https://hsnurcat.github.io//https://hsnurcat.github.io/author/HSNURcat/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">History of H.S.P | </title>
+  
+
+  
+    <subtitle>Writing page of my History</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">github &amp;amp; 마크다운</title>
+      <link href="https://hsnurcat.github.io//https://hsnurcat.github.io/chapter1" rel="alternate" type="text/html" title="github &amp; 마크다운" />
+      <published>2022-06-12T12:54:00+00:00</published>
+      <updated>2022-06-12T12:54:00+00:00</updated>
+      <id>https://hsnurcat.github.io//https://hsnurcat.github.io/chapter1</id>
+      <content type="html" xml:base="https://hsnurcat.github.io//https://hsnurcat.github.io/chapter1">&lt;h1 id=&quot;chapter1&quot;&gt;chapter1&lt;/h1&gt;
+
+&lt;h3 id=&quot;resources&quot;&gt;Resources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://try.github.io&quot;&gt;Resources to learn Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;깃허브&quot;&gt;깃허브&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;형상관리란?&lt;br /&gt;
+소프트웨어의 변경사항을 체계적으로 추적하고 통제하는 것&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;깃과 깃허브의 차이?&lt;br /&gt;
+Git : CVS(Concurrent Version System), SVN(SubVersioN)과 같은 “형상 관리 도구(버전 관리 시스템)” 들 중 하나
+Github : Git이라는 형상관리 도구의 백업공간(원격 저장소, 온라인 저장소)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;깃허브란?&lt;br /&gt;
+2005년, 리눅스의 창시자 리누스 토르발스는 깃(Git)을 처음 발표 이후,
+리눅스 개발자들이 리눅스의 소스코드를 관리하는데 Git을 사용하기 시작,
+현재는 리눅스 뿐만 아니라 다양한 소프트웨어의 소스코드를 관리하는데 사용,&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Github는 Git의 핵심기능 3가지(버전관리, 백업, 협업)중에서, 원격저장소를 통한 협업을 가능하도록 한다.&lt;/p&gt;
+
+&lt;h5 id=&quot;깃허브-사용방법&quot;&gt;깃허브 사용방법&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;깃허브에 로그인 한 후, New버튼 클릭한다. 
+&lt;img src=&quot;../../assets/images/etc/chapter1/usageBasic1.png&quot; alt=&quot;기본 사용법&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;레포지토리 이름을 입력한 다음, Create repository을 눌러준다. 
+&lt;img src=&quot;../../assets/images/etc/chapter1/usageBasic2.png&quot; alt=&quot;기본 사용법&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Fork, Pull Request&lt;/li&gt;
+  &lt;li&gt;Pull, Push, Commit, Merge, Branch&lt;/li&gt;
+  &lt;li&gt;Issue, Projects, Tag, Release&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;markdown-md&quot;&gt;markdown &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.md&lt;/code&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;마크다운이란?&lt;/li&gt;
+  &lt;li&gt;마크다운의 사용법
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;h1/&amp;gt;&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;code/&amp;gt;&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;input type='checkbox'/&amp;gt;&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;li/&amp;gt;&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;img/&amp;gt;&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;gt;&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;---&lt;/code&gt; 등&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;quest&quot;&gt;Quest&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;chapter1을 작성하기 위한 Branch를 생성해보세요.&lt;/li&gt;
+  &lt;li&gt;생성한 Branch에서 문서를 작성하고 merge를 통해 병합해 보세요.&lt;/li&gt;
+  &lt;li&gt;생성한 Branch에서 문서를 작성하고 pull request를 통해 병합해 보세요.&lt;/li&gt;
+  &lt;li&gt;이번 chapter에서 공부한 내용을 바탕으로 앞으로의 과제를 수행 해주세요.&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>H.S.P</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="etc" />
+      
+
+      
+        <summary type="html">chapter1</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Java class</title>
+      <link href="https://hsnurcat.github.io//https://hsnurcat.github.io/javaSpring-class" rel="alternate" type="text/html" title="Java class" />
+      <published>2022-06-12T12:54:00+00:00</published>
+      <updated>2022-06-12T12:54:00+00:00</updated>
+      <id>https://hsnurcat.github.io//https://hsnurcat.github.io/javaSpring-class</id>
+      <content type="html" xml:base="https://hsnurcat.github.io//https://hsnurcat.github.io/javaSpring-class">&lt;p&gt;상태정보(데이터) = 변수를 통해서 표현&lt;br /&gt;
+행동(기능) = 메소드를 통해서 표현&lt;br /&gt;
+객체 = 변수(상태정보) + 메소드(행동)&lt;br /&gt;
+객체 = 상태정보(데이터)+행동(기능)&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>H.S.P</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="javaSpring" />
+      
+
+      
+        <summary type="html">상태정보(데이터) = 변수를 통해서 표현 행동(기능) = 메소드를 통해서 표현 객체 = 변수(상태정보) + 메소드(행동) 객체 = 상태정보(데이터)+행동(기능)</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Javascript 타이머</title>
+      <link href="https://hsnurcat.github.io//https://hsnurcat.github.io/javascript-timer" rel="alternate" type="text/html" title="Javascript 타이머" />
+      <published>2022-06-12T12:54:00+00:00</published>
+      <updated>2022-06-12T12:54:00+00:00</updated>
+      <id>https://hsnurcat.github.io//https://hsnurcat.github.io/javascript-timer</id>
+      <content type="html" xml:base="https://hsnurcat.github.io//https://hsnurcat.github.io/javascript-timer">&lt;ol&gt;
+  &lt;li&gt;setTimeout메서드 : 일정 시간이 흐른 후 1번만 호출되는 함수 등록
+    &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;setTimeout&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+ &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;setInterval메서드 : 지정된 시간마다 반복해서 호출되는 함수 등록
+    &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;setInterval&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+ &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>H.S.P</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="javascript" />
+      
+
+      
+        <summary type="html">setTimeout메서드 : 일정 시간이 흐른 후 1번만 호출되는 함수 등록 setTimeout(function() { console.log(new Date()); }, 2000);</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
